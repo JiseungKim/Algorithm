@@ -16,7 +16,7 @@ public class Solution_D3_1225_암호생성기_김지승 {
 				queue.offer(n);
 			}
 			
-//			사이클 시작.
+//			사이클 시작
 			total:
 			while(true) {
 				for (int i = 1; i<=5/*0숫자가 0보다 작아지는 경우에 0으로 유지되며 프로그램 종료.*/; i++) {
