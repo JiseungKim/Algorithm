@@ -18,6 +18,7 @@ public class Solution_D4_1249_보급로_김지승 {
 	private static int[][] dir = {{1,0},{0,1},{-1,0},{0,-1}};
 	private static int N;
 	private static int[][] minmap;
+	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int T = sc.nextInt();
